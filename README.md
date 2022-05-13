@@ -1,5 +1,4 @@
 # 软件项目研发实践——实验3（实现基本的图像分类APP）
-
 ## 一、项目预备工作
 - 1.使用git clone https://github.com/hoitab/TFLClassify.git 下载初始代码
 - ![image1](https://github.com/Shawpromax/images/blob/main/test3_1.png)
