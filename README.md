@@ -57,7 +57,7 @@ for (i in 0..MAX_RESULT_DISPLAY-1){
 - 10.重新运行start模块，在手机中安装并运行应用
 
 ## 三、最终运行效果如下（识别花朵为玫瑰花）
-- ![image6](https://github.com/Shawpromax/images/blob/main/test3_6.png)
+![image6](https://github.com/Shawpromax/images/blob/main/test3_6.png)
 
 
 
